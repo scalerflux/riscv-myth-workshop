@@ -28,6 +28,11 @@ TL-Verilog (Transaction-Level Verilog) is an extension of SystemVerilog that sim
 
 ## D3SK1 - Combinational Logic in TL-Verilog using Makerchip
 
+# LAB 
+1. Multiplexer that can operate on vectors
+   <img width="2318" height="2288" alt="image" src="https://github.com/user-attachments/assets/0b05aa71-3d8e-44d0-80ee-2406ebb657bf" />
+
+
 
 
 ---
