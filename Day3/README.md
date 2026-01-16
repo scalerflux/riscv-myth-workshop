@@ -30,7 +30,13 @@ TL-Verilog (Transaction-Level Verilog) is an extension of SystemVerilog that sim
 
 # LAB 
 1. Multiplexer that can operate on vectors
+   
  <img width="3550" height="2382" alt="image" src="https://github.com/user-attachments/assets/de01b917-cc19-4949-8702-13302cb94928" />
+
+3. Combination calculator
+   
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/8beb2675-53e5-4624-a08f-7962430a1603" />
+
 
 
 
