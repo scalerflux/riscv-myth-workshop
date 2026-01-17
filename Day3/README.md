@@ -72,7 +72,7 @@ K going back to the combination calculator we did, a calculator usually holds on
 
 This previous result is state. And wherever we have state, we must have a $reset that will set that state to a known value. As in a real calculator, we will reset the value to zero.
 
-<img width="3840" height="2302" alt="image" src="https://github.com/user-attachments/assets/4161aab6-559b-44b4-a771-7e34b16eee80" />
+<img width="3840" height="2000" alt="image" src="https://github.com/user-attachments/assets/4161aab6-559b-44b4-a771-7e34b16eee80" />
 
 
 ![calculator](https://github.com/user-attachments/assets/bd3b2d90-5ebf-4233-90f2-39fde7045800)
@@ -86,6 +86,8 @@ This previous result is state. And wherever we have state, we must have a $reset
 ---
 
 ## D3SK3 - Pipelined Logic
+
+<img width="3182" height="1148" alt="image" src="https://github.com/user-attachments/assets/d07ba68d-9bd2-4824-8b1f-60bdbb88b271" />
 
 
 
