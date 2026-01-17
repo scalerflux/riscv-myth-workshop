@@ -103,12 +103,13 @@ Instead of checking everything at the end, each stage passes its error status to
 <img width="3838" height="2038" alt="image" src="https://github.com/user-attachments/assets/bdedb17a-d70d-4c45-849e-ce9bdbc9c932" />
 
 
-#### 2-Cycle Calculator
+#### Counter n Calculator
 <!-- ![2-Cycle Calculator]() -->
 
 # Putiing the calulator n counter in stage @1 of calc pipeline
 
-<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/0a24eabc-1ae0-44d1-a047-dfea82974ffd" />
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/14e0ce95-a92c-41a2-8b3b-4b15154e4eb9" />
+
 
 
 ---
