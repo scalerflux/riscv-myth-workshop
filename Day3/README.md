@@ -36,7 +36,8 @@ TL-Verilog (Transaction-Level Verilog) is an extension of SystemVerilog that sim
 #### Combinational Calculator
 <!-- ![Combinational Calculator]() -->
 
-<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/8beb2675-53e5-4624-a08f-7962430a1603" />
+<img width="3840" height="2302" alt="image" src="https://github.com/user-attachments/assets/892b4949-1afd-42b4-8109-cf141fdaec31" />
+
 
 ---
 
@@ -71,9 +72,11 @@ K going back to the combination calculator we did, a calculator usually holds on
 
 This previous result is state. And wherever we have state, we must have a $reset that will set that state to a known value. As in a real calculator, we will reset the value to zero.
 
-<img width="3836" height="2276" alt="image" src="https://github.com/user-attachments/assets/7dbabe5e-c208-420b-8575-71fab1d112c5" />
+<img width="3840" height="2302" alt="image" src="https://github.com/user-attachments/assets/4161aab6-559b-44b4-a771-7e34b16eee80" />
 
-![calculator](https://github.com/user-attachments/assets/e56b4ece-a331-4296-a1e0-b77451a83cab)
+
+![calculator](https://github.com/user-attachments/assets/bd3b2d90-5ebf-4233-90f2-39fde7045800)
+
 
 
 
