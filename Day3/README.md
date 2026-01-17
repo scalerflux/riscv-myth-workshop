@@ -95,6 +95,13 @@ This previous result is state. And wherever we have state, we must have a $reset
 
 #### Pipeline Error Detection
 <!-- ![Pipeline Errors]() -->
+**Goal**: Determine if a transaction is valid or has encountered errors (like bad input, overflow, or divide-by-zero) as it moves through a 6-stage pipeline.
+**Mechanism**: Accumulate error flags stage-by-stage.
+Instead of checking everything at the end, each stage passes its error status to the next.
+**Logic**: `Current_Error = Previous_Error OR Current_Stage_Condition`
+
+<img width="3838" height="2038" alt="image" src="https://github.com/user-attachments/assets/bdedb17a-d70d-4c45-849e-ce9bdbc9c932" />
+
 
 #### 2-Cycle Calculator
 <!-- ![2-Cycle Calculator]() -->
