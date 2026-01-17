@@ -73,6 +73,10 @@ This previous result is state. And wherever we have state, we must have a $reset
 
 <img width="3836" height="2276" alt="image" src="https://github.com/user-attachments/assets/7dbabe5e-c208-420b-8575-71fab1d112c5" />
 
+![calculator](https://github.com/user-attachments/assets/0ef71d18-99ec-4ffc-9e10-483a00b976f8)
+
+
+
 
 
 ---
