@@ -16,7 +16,7 @@
    |calc 
       @1             
          $val1[31:0] = >>1$out;   
-         $cnt = reset ? 32'b0 : (>>1$cnt + 1);              
+                   $cnt[31:0] = reset ? 32'b0 : (>>1$cnt + 1);              
    
          $sum[31:0] = $val1[31:0] + $val2[31:0];
          $diff[31:0] = $val1 - $val2;
