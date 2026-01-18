@@ -108,7 +108,8 @@ Instead of checking everything at the end, each stage passes its error status to
 
 # Putiing the calulator n counter in stage @1 of calc pipeline
 
-<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/14e0ce95-a92c-41a2-8b3b-4b15154e4eb9" />
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/f268ea06-1fbe-456a-858b-4464d632500f" />
+
 
 
 
