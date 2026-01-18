@@ -108,7 +108,12 @@ Instead of checking everything at the end, each stage passes its error status to
 
 # Putiing the calulator n counter in stage @1 of calc pipeline
 
-<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/f268ea06-1fbe-456a-858b-4464d632500f" />
+* the cnt is incresing(annoted white line)
+* val1 is getting the out value from the first operation for next operation
+
+
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/6adb313b-e66d-4170-bc89-817b64a70eb7" />
+
 
 
 
