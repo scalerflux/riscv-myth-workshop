@@ -114,6 +114,21 @@ Instead of checking everything at the end, each stage passes its error status to
 
 <img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/6adb313b-e66d-4170-bc89-817b64a70eb7" />
 
+#### Cycle calculator
+At high frequency, we might need to calculate every other cycle.
+
+* so we'll alignment of sout (to calculate every other cycle, the feedback loop needs to grab the output from 2 cycles ago to allow for the 2-stage operation)
+
+*  Change counter($cnt) to single-bit (to indicate every other cycle,the counter needs to toggle between 0 and 1 to act as a clock divider)
+
+*  ⁠Connect $valid (to clear alternate outputs, we need a signal to invalidate the output during the "calculation" cycle so the user only sees the result when it's ready)
+
+* ⁠Retime mux to @2 (to ease timing: no functional change)
+
+The diagram looks something like this-> <img width="2146" height="1848" alt="image" src="https://github.com/user-attachments/assets/f6fc5b21-b156-4cda-9b76-646ab2c57080" />
+
+
+
 
 
 
