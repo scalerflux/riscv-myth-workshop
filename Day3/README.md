@@ -150,8 +150,12 @@ The diagram looks something like this-> <img width="2146" height="1848" alt="ima
 https://www.makerchip.com/sandbox/0Krfqh3JZ/0WnhrB#
 
 
-#### Total Distance Calculator
+####  Calculator with memory n recall 
 <!-- ![Total Distance]() -->
+
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/18026a05-6cea-4df6-aa45-b0d51cfa093c" />
+https://www.makerchip.com/sandbox/0Krfqh3JZ/0X6hEv#
+
 
 ---
 
