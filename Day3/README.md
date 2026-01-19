@@ -145,6 +145,11 @@ The diagram looks something like this-> <img width="2146" height="1848" alt="ima
 #### Calculator with Validity
 <!-- ![Calculator Validity]() -->
 
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/deff3183-f9ae-4078-952c-0dcc8b5a7851" />
+
+https://www.makerchip.com/sandbox/0Krfqh3JZ/0WnhrB#
+
+
 #### Total Distance Calculator
 <!-- ![Total Distance]() -->
 
