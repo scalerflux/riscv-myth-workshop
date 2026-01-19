@@ -116,12 +116,14 @@ Instead of checking everything at the end, each stage passes its error status to
 
 #### Cycle calculator
 
-<img width="3840" height="1640" alt="image" src="https://github.com/user-attachments/assets/af30b532-02da-42f4-9e8e-9eb0a20b230b" />
+<img width="3840" height="1870" alt="image" src="https://github.com/user-attachments/assets/83b3efd2-125c-4910-b8d4-dfb02c824c0d" />
+
 
 
 The diagram looks something like this-> <img width="2146" height="1848" alt="image" src="https://github.com/user-attachments/assets/f6fc5b21-b156-4cda-9b76-646ab2c57080" />
 
-<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/ff4932aa-3a70-4678-bcba-ab56a1d1c0b0" />
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/11d0909a-3a1d-4962-b75f-77466742b6a3" />
+
 
 
 
