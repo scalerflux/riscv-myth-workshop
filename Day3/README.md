@@ -135,6 +135,9 @@ The diagram looks something like this-> <img width="2146" height="1848" alt="ima
 
 ## D3SK4 - Validity
 
+<img width="3840" height="1488" alt="image" src="https://github.com/user-attachments/assets/5047adb0-c3ee-4eee-bd5b-a799e1a9e76e" />
+
+
 
 
 ---
