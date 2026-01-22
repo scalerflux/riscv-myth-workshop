@@ -31,4 +31,6 @@ https://myth.makerchip.com/sandbox/073fmhB8Y/098hWN#
 
 ## Correcting branch target path
 
-<img width="3806" height="1360" alt="image" src="https://github.com/user-attachments/assets/4ff8d89b-477d-40ea-ad37-8723e77f0b0b" />
+<img width="3806" height="1594" alt="image" src="https://github.com/user-attachments/assets/65171fe3-12ca-4348-bfa6-870b74da4c15" />
+https://myth.makerchip.com/sandbox/073fmhB8Y/03lhjp#
+
