@@ -23,3 +23,12 @@ https://myth.makerchip.com/sandbox/073fmhB8Y/076hXW#
 # Decode logic - Individual instruction
 <img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/0bf2138e-2c31-4d23-98b7-86a70a072eab" />
 https://myth.makerchip.com/sandbox/073fmhB8Y/098hWN#
+
+
+## Regiser file bypass
+
+<img width="3792" height="1776" alt="image" src="https://github.com/user-attachments/assets/e43ee407-da8f-4198-9343-f4a8584cdda2" />
+
+## Correcting branch target path
+
+<img width="3806" height="1360" alt="image" src="https://github.com/user-attachments/assets/4ff8d89b-477d-40ea-ad37-8723e77f0b0b" />
