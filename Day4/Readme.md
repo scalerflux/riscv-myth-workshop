@@ -24,6 +24,10 @@ https://myth.makerchip.com/sandbox/073fmhB8Y/076hXW#
 <img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/0bf2138e-2c31-4d23-98b7-86a70a072eab" />
 https://myth.makerchip.com/sandbox/073fmhB8Y/098hWN#
 
+## Register file reds n Arithmetic logic unit
+
+<img width="3840" height="2486" alt="image" src="https://github.com/user-attachments/assets/ca3a3e71-8bbc-47a5-bff8-9446b337626b" />
+
 
 
 
