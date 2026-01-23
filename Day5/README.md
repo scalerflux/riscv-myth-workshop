@@ -22,7 +22,8 @@ https://www.makerchip.com/sandbox/0Krfqh3JZ/066hRV#
 
 ## The test program
 
-![calculator](https://github.com/user-attachments/assets/782c07d2-ca12-4bb3-999b-7f35449f20a8)
+![riscv](https://github.com/user-attachments/assets/d1842c8d-1762-4642-8cb1-9adb8e57ecf3)
+
 
 <img width="1644" height="2372" alt="image" src="https://github.com/user-attachments/assets/a5a81565-946a-4dad-b3e8-d7a192982ff9" />
 
