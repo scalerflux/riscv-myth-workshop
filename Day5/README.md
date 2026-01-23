@@ -20,3 +20,11 @@ https://www.makerchip.com/sandbox/0Krfqh3JZ/066hRV#
 
 <img width="3808" height="1924" alt="image" src="https://github.com/user-attachments/assets/74969fc8-44cd-4e19-84fc-6f98a98bc534" />
 
+## The test program
+
+![calculator](https://github.com/user-attachments/assets/782c07d2-ca12-4bb3-999b-7f35449f20a8)
+
+<img width="1644" height="2372" alt="image" src="https://github.com/user-attachments/assets/a5a81565-946a-4dad-b3e8-d7a192982ff9" />
+
+
+
