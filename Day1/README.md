@@ -110,3 +110,15 @@ spike -d pk sum // takes to the debug mode
 <img width="2312" height="1120" alt="image" src="https://github.com/user-attachments/assets/ef724490-0934-4416-95ce-91891f8cc9d0" />
 
 
+## Algorithm For Sum 1 to N Using ASM
+
+~~~
+riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o 1to9.o 1to9_custom.c load.S
+spike pk 1to9.o
+riscv64-unknown-elf-objdump -d 1to9.o | less
+~~~
+
+
+<img width="3818" height="2340" alt="image" src="https://github.com/user-attachments/assets/5900f6d3-3591-4391-931e-ed06aa53e834" />
+
+
