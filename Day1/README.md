@@ -102,6 +102,10 @@ spike pk sum
 spike -d pk sum // takes to the debug mode
 ~~~
 
+## Signed numbers
+<img width="2504" height="436" alt="image" src="https://github.com/user-attachments/assets/84a77125-472e-417d-afd0-a351a97873bb" />
+
+
 
 <img width="2312" height="1120" alt="image" src="https://github.com/user-attachments/assets/ef724490-0934-4416-95ce-91891f8cc9d0" />
 
