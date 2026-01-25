@@ -1,1 +1,1 @@
-# riscv-myth-workshop
+# RISCV-MYTH-Workshop
