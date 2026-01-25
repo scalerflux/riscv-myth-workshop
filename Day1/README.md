@@ -1,7 +1,6 @@
-Hi there
 
 
-this was done on arm ubuntu running on Mac via UTM, since there no preloaded vdi image for arm machines you can follwo the below steps to match the workshop(credit- Claude) 
+This was done on arm ubuntu running on Mac via UTM, since there no preloaded vdi image for arm machines you can follwo the below steps to match the workshop(credit- Claude) 
 
 set up RISC-V GCC(there are 2-3 other options as well, but this the only one that worked for me
 ~~~
@@ -124,4 +123,15 @@ riscv64-unknown-elf-objdump -d 1to9.o | less
 ## Program On RISC-V CPU
 ~~~
 git clone https://github.com/kunalg123/riscv_workshop_collaterals.git
+cd riscv_workshop_collaterals
+cd labs
+vim picorv32.v 
+vim testbench.v
+vim rv32im.sh
+chmod 777 rv32im.sh
+./rv32im.sh
+~~~
+
+<img width="2326" height="1862" alt="image" src="https://github.com/user-attachments/assets/fa854d46-1093-4629-a9e2-a7fb34b9e7b3" />
+
 
