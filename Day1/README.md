@@ -121,4 +121,7 @@ riscv64-unknown-elf-objdump -d 1to9.o | less
 
 <img width="3818" height="2340" alt="image" src="https://github.com/user-attachments/assets/5900f6d3-3591-4391-931e-ed06aa53e834" />
 
+## Program On RISC-V CPU
+~~~
+git clone https://github.com/kunalg123/riscv_workshop_collaterals.git
 
