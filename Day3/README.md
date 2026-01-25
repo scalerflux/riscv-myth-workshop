@@ -26,16 +26,16 @@ TL-Verilog (Transaction-Level Verilog) is an extension of SystemVerilog that sim
 
 ---
 
-## D3SK1 - Combinational Logic in TL-Verilog using Makerchip
+## Combinational Logic in TL-Verilog using Makerchip
 
 
 #### Mux(Multiplexer that can operate on vectors)
-<!-- ![Mux]() -->
+
 A multiplexer selects between multiple inputs based on a select signal
  <img width="3550" height="2382" alt="image" src="https://github.com/user-attachments/assets/de01b917-cc19-4949-8702-13302cb94928" />
 
 #### Combinational Calculator
-<!-- ![Combinational Calculator]() -->
+
 
 <img width="3840" height="2302" alt="image" src="https://github.com/user-attachments/assets/892b4949-1afd-42b4-8109-cf141fdaec31" />
 https://www.makerchip.com/sandbox/0Krfqh3JZ/0O7hzN
@@ -55,7 +55,7 @@ Flip-flops are the fundamental building blocks of sequential logic. They:
 ---
 
 ### Fibonacci Sequence
-<!-- ![Fibonacci]() -->
+
 The Fibonacci sequence demonstrates sequential logic beautifully. Each number is the sum of the two preceding ones.
 
 Circuit behavior:
@@ -107,19 +107,16 @@ https://www.makerchip.com/sandbox/0Krfqh3JZ/0P1h8v
 ![calculator](https://github.com/user-attachments/assets/bd3b2d90-5ebf-4233-90f2-39fde7045800)
 
 
-
 ---
 
 ## Pipelined Logic
 
 <img width="3182" height="1148" alt="image" src="https://github.com/user-attachments/assets/d07ba68d-9bd2-4824-8b1f-60bdbb88b271" />
 
-
-
 ---
 
 ### Pipeline Error Detection
-<!-- ![Pipeline Errors]() -->
+
 **Goal**: Determine if a transaction is valid or has encountered errors (like bad input, overflow, or divide-by-zero) as it moves through a 6-stage pipeline.
 **Mechanism**: Accumulate error flags stage-by-stage.
 
