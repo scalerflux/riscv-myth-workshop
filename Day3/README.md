@@ -1,4 +1,4 @@
-# Day 3 - Digital Logic with TL-Verilog and Makerchip
+# Digital Logic with TL-Verilog and Makerchip
 
 ## Table of Contents
 - [D3SK1 - Combinational Logic](#d3sk1---combinational-logic-in-tl-verilog-using-makerchip)
